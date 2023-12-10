@@ -1,0 +1,13 @@
+.container{
+	width:70%;
+	height:30%;
+	padding:20px;
+}
+
+.search-btn{
+    background-color:#292929;
+    color:whitesmoke;
+    border-color:black;
+    height:13.5%;
+    width:48%
+}
